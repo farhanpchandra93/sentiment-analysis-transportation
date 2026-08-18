@@ -1,4 +1,4 @@
-# Sentiment Analysis of Transportation Infrastructure Comments
+# Sentiment Analysis of Transportation Infrastructure Comments in Indonesia
 A Natural Language Processing (NLP) project that analyzes public sentiment from YouTube comments related to transportation and infrastructure topics.
 The project covers the complete workflow from YouTube data collection and text preprocessing to sentiment classification using traditional machine learning and deep learning approaches.
 
